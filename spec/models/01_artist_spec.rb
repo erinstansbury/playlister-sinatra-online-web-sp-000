@@ -1,4 +1,5 @@
 require 'spec_helper'
+require_relative '../config/environment'
 
 describe "Artist" do
   before do 
